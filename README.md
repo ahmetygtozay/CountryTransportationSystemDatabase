@@ -21,7 +21,7 @@ This is a Country Transportation Management System that allows users to manage t
   cd travel-management-system
 
   
-Usage
+## Usage
 
 Open your web browser and go to http://localhost:3000.
 Register or log in to start managing your travel.
@@ -29,6 +29,6 @@ Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
