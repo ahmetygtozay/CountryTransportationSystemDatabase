@@ -1,6 +1,7 @@
 # CountryTransportationSystemDatabase
 
 This is a Country Transportation Management System that allows users to manage their travel history, book tickets, and explore various transportation options.
+I extracted the EER diagrams of the 7 most used companies, THY, TCDD, MARTI, IZBAN, IDO, OBILET, YOLCU360, and created a common and single database by combining them all.
 
 ## Features
 
@@ -18,7 +19,9 @@ This is a Country Transportation Management System that allows users to manage t
 
 2.Navigate to the project directory:
 
+  ```bash
   cd travel-management-system
+```
 
   
 ## Usage
